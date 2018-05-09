@@ -14,9 +14,7 @@ int main(int argc, char *argv[])
 //    w.show();
 //ADDED TO GITHUB
 
-   //ADDED TO GITHUB
 
-   //ADDED TO GITHUB
 
     Qt3DExtras::Qt3DWindow *view= new Qt3DExtras::Qt3DWindow();
     Qt3DCore::QEntity *rootEntity = new Qt3DCore::QEntity;
